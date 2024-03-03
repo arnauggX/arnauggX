@@ -1,12 +1,6 @@
 # Hola, soy Arnau Gil 👋
 
 
-## Conocimientos
-
-- **Java:** 🚀 Desarrollo de aplicaciones robustas y escalables.
-- **HTML y CSS:** 🌐 Creación de páginas web atractivas y funcionales.
-- **SQL:** 📊 Manejo de bases de datos y consultas de datos.
-- **GitHub:** 🐙 Control de versiones y colaboración en proyectos.
 
 ## Conéctate conmigo
 
@@ -45,6 +39,4 @@
 
 ------
 
-Credit: [Aneal07](https://github.com/Aneal07)
 
-Last Edited on: 18/11/2023
