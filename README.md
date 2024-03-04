@@ -28,8 +28,8 @@
 # 👅 Idiomas:
 
 <img src="https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg" width="500">
-<img src="[https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg](https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg)" width="500">
-<img src="[https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg](https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg)" width="500">
+<img src="https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg](https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg" width="500">
+<img src="https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg](https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg" width="500">
 
 
 # 📊 GitHub Stats:
