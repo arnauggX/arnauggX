@@ -25,6 +25,10 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
+# 💻 Idiomas:
+![Español](https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arnauggX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arnauggX&theme=dark&hide_border=false)<br/>
