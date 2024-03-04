@@ -10,13 +10,13 @@
 - [Facebook](https://www.facebook.com/tu_usuario): 👍 Find me on Facebook!
 
 
-# 💫 Sobre mí:
-- 🎓 Actualmente estudiante de DAW (Desarrollo de Aplicaciones Web) de 1er año.
-- 💻 Experiencia en Java, HTML, y CSS.
-- 🚀 Apasionado por el desarrollo web y la programación.
+# 💫 About me:
+- 🎓 Currently a 1st year student of DAW (Web Application Development).
+- 💻 Experience in Java, HTML, and CSS.
+- 🚀 Passionate about web development and programming.
 
 
-# 💻 Conocimientos:
+# 💻 Knowledges:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -25,7 +25,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
-# 👅 Idiomas:
+# 👅 Languages:
 
 <img src="https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg" width="50">
 <img src="https://i.pinimg.com/474x/0c/63/26/0c63267d57701129ba83c4bfea92bc40.jpg" width="50">
