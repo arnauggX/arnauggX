@@ -27,9 +27,9 @@
 
 # 👅 Idiomas:
 
-<img src="https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg" width="500">
-<img src="https://i.pinimg.com/474x/0c/63/26/0c63267d57701129ba83c4bfea92bc40.jpg" width="500">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg" width="500">
+<img src="https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg" width="50">
+<img src="https://i.pinimg.com/474x/0c/63/26/0c63267d57701129ba83c4bfea92bc40.jpg" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg" width="50">
 
 
 # 📊 GitHub Stats:
