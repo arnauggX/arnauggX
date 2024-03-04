@@ -26,10 +26,10 @@
 
 
 # 👅 Idiomas:
-![Español](https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg)
-![Catalan](https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg)
-![English](https://media.istockphoto.com/id/479199262/es/foto/encuadre-completo-imagen-de-inglaterra-bandera.jpg?s=612x612&w=0&k=20&c=SwMP7VR64pbeG-fGCQSbP3e1jYLV0w-79bNyDG5z5Cc=)
+
 <img src="https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg" width="500">
+<img src="[https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg](https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg)" width="500">
+<img src="[https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg](https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg)" width="500">
 
 
 # 📊 GitHub Stats:
